@@ -28,8 +28,8 @@
 		<div class="float-left">				
 				<div class="contactinfo">
 				  <ul class="">
-						<li><i class="fa fa-phone"></i> <a href="tel:022828342">022828342</a>, <a href="tel:0840887176">0840887176</a></li>
-						<li><a href="mailto:gertexthailand@gmail.com"><i class="fa fa-envelope"></i> gertexthailand@gmail.com</a>                </li>
+						<li><i class="fas fa-phone"></i> <a href="tel:022828342">022828342</a>, <a href="tel:0840887176">0840887176</a></li>
+						<li><a href="mailto:gertexthailand@gmail.com"><i class="fas fa-envelope"></i> gertexthailand@gmail.com</a>                </li>
 				  </ul>
 				</div>
 		</div>
@@ -41,7 +41,7 @@
 						<!--i class="fa fa-facebook"></i-->
 						<img src="<?php echo get_template_directory_uri(); ?>/assets/images/facebook_24.png">
 						</a></li>
-						<li><a title="" data-placement="bottom" data-toggle="tooltip" href="MAP.html" data-original-title="�Դ������"><!--i class="fa fa-map-marker"></i--><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Google-Maps-icon.png"></a></li>
+						<li><a title="" data-placement="bottom" data-toggle="tooltip" href="MAP.html" data-original-title="ติดต่อเรา"><!--i class="fa fa-map-marker"></i--><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Google-Maps-icon.png"></a></li>
 						<li><a title="" data-placement="bottom" data-toggle="tooltip" href="p-line.html" data-original-title="Line"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/Line-24.png"></a>
 						</li>
 					</ul>
